@@ -7,6 +7,10 @@ Soy un **desarrollador full stack** con una pasión por la innovación tecnológ
 Mi viaje en el mundo del desarrollo web comenzó en **Henry**, una academia de programación de renombre. Aquí, adquirí habilidades sólidas y conocimientos profundos en una variedad de tecnologías, incluyendo:
 
 - **JavaScript**
+- **Next.js**
+- **Node.js**
+- **Nest.js** 
+- **TypeORM**
 - **React.js**
 - **PostgreSQL**
 - **SQL**
@@ -19,8 +23,8 @@ Estas habilidades me han equipado para enfrentar y superar cualquier desafío de
 ## 🚀 Habilidades técnicas
 
 - **Lenguajes de programación:** JavaScript
-- **Desarrollo Frontend:** React.js, Redux
-- **Desarrollo Backend:** Node.js (Express), Firebase
+- **Desarrollo Frontend:** Next.js, React.js, Redux
+- **Desarrollo Backend:** Node.js, Nest.js (Express), Firebase
 - **Bases de Datos:** PostgreSQL (Sequelize), SQL
 - **Herramientas adicionales:** Nodemailer
 
