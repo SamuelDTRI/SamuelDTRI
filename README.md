@@ -40,7 +40,7 @@ Estoy buscando oportunidades en empresas innovadoras que valoran tanto las **sof
 
 Si estás interesado en colaborar, tienes alguna oportunidad de trabajo o simplemente quieres charlar sobre tecnología, no dudes en contactarme:
 
-- LinkedIn: https://www.linkedin.com/in/samuel-diaz31/ 
+- LinkedIn: www.linkedin.com/in/samueltriviño
 - Email: sariditri31@gmail.com
 
 Espero tener noticias tuyas pronto. ¡Hasta entonces, seguire codificando!
